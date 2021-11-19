@@ -1,0 +1,466 @@
+# Translation of Themes - Wallstreet Agency in Turkish
+# This file is distributed under the same license as the Themes - Wallstreet Agency package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-06-15 21:24:52+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Wallstreet Agency\n"
+
+#. Description of the theme
+msgid "The Wallstreet Agency theme is the child theme of Wallstreet WordPress Theme. A Business theme, perfect for creating corporate/business websites. In this theme, you can get the different color, header, service, and blog sections from the parent theme. The theme is developed for all devices such as mobiles, tablets, laptops, etc."
+msgstr "Wallstreet Agency teması, Wallstreet WordPress temasının alt temasıdır. Kurumsal/işletme web siteleri oluşturmak için mükemmel bir ticari temadır. Bu temada, ana temadaki farklı renk, başlık, hizmet ve blog bölümlerini kullanabilirsiniz. Bu tema mobil cihazlar, tabletler, diz üstü bilgisayar vb. tüm cihazlara uygun olarak geliştirilmiştir."
+
+#. Theme Name of the theme
+msgid "Wallstreet Agency"
+msgstr "Wallstreet Agency"
+
+#: index-blog.php:53
+msgid "Read More"
+msgstr "Devamını oku"
+
+#: header.php:11
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: functions/header/header-nav.php:31
+msgid "Toggle navigation"
+msgstr "Navigasyonu değiştir"
+
+#: functions/customizer/customizer-copyright.php:23
+msgid "Copyright text"
+msgstr "Telif hakkı metni"
+
+#: functions/customizer/customizer-copyright.php:8
+msgid "Footer copyright settings"
+msgstr "Alt kısım telif hakkı ayarları"
+
+#: functions.php:50 functions/customizer/customizer-copyright.php:15
+msgid "Proudly powered by <a href=\"https://wordpress.org\">WordPress</a> | Theme: <a href=\"https://webriti.com\" rel=\"nofollow\">Wallstreet Agency</a> by Webriti"
+msgstr "<a href=\"https://wordpress.org\">WordPress</a> gururla sunar. | Tema: Webriti'den <a href=\"https://webriti.com\" rel=\"nofollow\">Wallstreet Agency</a>"
+
+#: admin/tab-pages/useful_plugins.php:117
+msgid "The theme supports yet another famous plugin: WPML. With the help of this support you can create a website available in multiple languages."
+msgstr "Tema ünlü bir başka eklentiyi destekliyor: WPML. Bu sayede birden fazla dil desteği sunan web siteleri oluşturabilirsiniz."
+
+#: admin/tab-pages/useful_plugins.php:116
+msgid "Translation Ready"
+msgstr "Çeviri hazır"
+
+#: admin/tab-pages/useful_plugins.php:107
+msgid "Building a website with our custom widgets is very simple. Just place them inside the available sidebar or even in the content."
+msgstr "Özel bileşenlerimizle bir web sitesi oluşturmak çok basit. Sadece kenar çubuğuna, hatta içeriğe yerleştirmeniz yeterli."
+
+#: admin/tab-pages/useful_plugins.php:106
+msgid "Custom widget"
+msgstr "Özel bileşen"
+
+#: admin/tab-pages/useful_plugins.php:98
+msgid "We provide good knowledgebase articles which will help you to create effective websites. You can visit these articles via our <a href='https://webriti.com/help/category/themes/wallstreet/' target='_blank'>Help Section</a>."
+msgstr "Bilgi bankamızda etkili web siteleri oluşturmanıza yardımcı olacak faydalı makaleler sağlıyoruz. <a href='https://webriti.com/help/category/themes/wallstreet/' target='_blank'>Yardım bölümünden</a> bu makalelere ulaşabilirsiniz."
+
+#: admin/tab-pages/useful_plugins.php:97
+msgid "Well Documented"
+msgstr "İyi belgelenmiş"
+
+#: admin/tab-pages/useful_plugins.php:89
+msgid "You will get 13 preset color schemes and you can even create your own favorite color schemes using the Custom Color Setting in the Customizer."
+msgstr "13 tane önceden ayarlanmış renk şeması edineceksiniz ve kendiniz de özelleştiricide özel renk ayarını kullanarak en sevdiğiniz renk şemalarını yapabilirsiniz."
+
+#: admin/tab-pages/useful_plugins.php:79
+msgid "Testimonials are a powerful way to gain credibility. You can display testimonials with a carousel effect."
+msgstr "Müşteri görüşleri güvenilirlik kazanmanın güçlü bir yoludur. Müşteri görüşlerini karusel efekti ile gösterebilirsiniz."
+
+#: admin/tab-pages/useful_plugins.php:78
+msgid "Testimonial Feature"
+msgstr "Müşteri görüşleri özelliği"
+
+#: admin/tab-pages/useful_plugins.php:71
+msgid "This section is often used to display Latest News, Announcements and Events type content."
+msgstr "Bu bölüm genelde en güncel haberleri, duyuruları ve etkinlik tipindeki içerikleri göstermek için kullanılır."
+
+#: admin/tab-pages/useful_plugins.php:70
+msgid "Latest News Section"
+msgstr "Son haberler bölümü"
+
+#: admin/tab-pages/useful_plugins.php:61
+msgid "Portfolio Features"
+msgstr "Portföy özellikleri"
+
+#: admin/tab-pages/useful_plugins.php:53
+msgid "You can display any number of Services on the Homepage, with thousands of FontAwesome icons available. You can also display a set of services on a separate page by using the service-related page templates."
+msgstr "Mevcut binlerce FontAwesome simgesi ile ana sayfada istediğiniz kadar hizmet gösterebilirsiniz. Hizmetlere ilişkin sayfa şablonlarını kullanarak bir dizi hizmeti ayrı bir sayfada da görüntüleyebilirsiniz."
+
+#: admin/tab-pages/useful_plugins.php:62
+msgid "Showcase any number of projects. This theme provides you with an option to create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column layout templates, respectively. If you have a number of projects to present then these templates are the answer. You can also create categorized portfolios, which display all the portfolio categories in a single place. In fact, we have coded this theme so that you can create any number of different portfolios."
+msgstr "İstediğiniz sayıda projeyi sergileyin. Bu tema 2,3,4 sütunlu portföy yerleşim şablonları kullanarak, sırasıyla 2, 3, 4 sütunlu ızgara düzeni yerleşimler oluşturma seçeneği sunar. Göstermeniz gereken çok sayıda proje varsa bu şablonlar aradığınız çözüm olacaktır. Tüm porföy kategorilerini tek bir yerde gösterecek kategorilendirilmiş porföyler de oluşturabilirsiniz. Esasen bu temayı çok sayıda farklı portföy oluşturabileceğiniz şekilde kodladık."
+
+#: admin/tab-pages/useful_plugins.php:51
+msgid "Service Features"
+msgstr "Hizmet özellikleri"
+
+#: admin/tab-pages/useful_plugins.php:43
+msgid "You can create unlimited slides which you can control via the settings in Appearance >> Customize. The slider supports various post formats like Standard, Aside, Quote, Chat and Video."
+msgstr "Sınırsız slaytlar oluşturabilir ve tema görünüm özelleştiricisinden kontrol edebilirsiniz. Kaydırıcı standart, kenar, alıntı, sohbet ve video gibi çeşitli posta biçimleriyle desteklendi."
+
+#: admin/tab-pages/useful_plugins.php:42
+msgid "Caption Slider"
+msgstr "Başlık kaydırıcı"
+
+#: admin/tab-pages/useful_plugins.php:34
+msgid "There are beautifully styled navigation/menus in the Wallstreet Agency theme. You can make multi level menus, which means you can create sub menus."
+msgstr "Wallstreet Agency temasında çok güzel tasarımlı dolaşım menüleri/menüler bulunmaktadır. Alt menülere olanak veren çok seviyeli menüler oluşturabilirsiniz."
+
+#: admin/tab-pages/useful_plugins.php:33
+msgid "Multi Level Navigation"
+msgstr "Çok seviyeli dolaşım"
+
+#: admin/tab-pages/useful_plugins.php:25
+msgid "In the premium version you will get a top header sidebar area where you can use any widget - all the widgets are styled. We have created a number of widgets in the theme which you can use here. Specifically, use the Info Widget for showing your email ID, contact number or any other info of your choice."
+msgstr "Premium sürümde - tümü özel tasarlanmış - herhangi bir bileşen ekleyebileceğiniz üst başlık çubuğu kullanabilirsiniz. Tema içerisinde bu alanda kullanmak üzere çok sayıda bileşen oluşturduk. Bilhassa bilgi bileşeni ile e-posta ID, iletişim numarası veya istediğiniz herhangi bir bilgiyi gösterebilirsiniz."
+
+#: admin/tab-pages/useful_plugins.php:24
+msgid "Top Header Section"
+msgstr "Üst başlık bölümü"
+
+#: admin/tab-pages/useful_plugins.php:17
+msgid "This feature helps you to rename the slug name from the URL, allowing you to make it SEO friendly."
+msgstr "Bu özellik URL'deki kısa ismi değiştirerek SEO dostu bir adres oluşturmanıza yardımcı olur"
+
+#: admin/tab-pages/useful_plugins.php:11
+msgid "Why Upgrade to Pro?"
+msgstr "Neden Pro sürüme yükseltmeli?"
+
+#: admin/tab-pages/support.php:21
+msgid "Want to get the gist on the latest theme changes? Just consult our changelog below to get a taste of the recent fixes and features implemented."
+msgstr "Temadaki son değişiklikleri yakalamak mı istediniz? Aşağıdaki değişiklik kayıtlarına başvurarak güncel geliştirmeler ve yeni özellikler hakkında bilgi alabilirsiniz."
+
+#: admin/tab-pages/support.php:13
+msgid "We want to make sure you have the best experience using Wallstreet Agency theme, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using Wallstreet Agency theme as much as we enjoy creating great products."
+msgstr "Wallstreet Agency temasını kullanırken en iyi deneyimi yaşadığınıza emin olmak istiyoruz, bu nedenle gerekli tüm bilgileri sizin için burada bir araya getirdik. Wallstreet Agency temasını kullanırken, bizim mükemmel ürünler oluşturmaktan keyif aldığımız kadar keyif almanızı umarız."
+
+#: admin/tab-pages/support.php:12 admin/tab-pages/support.php:14
+msgid "Contact Support"
+msgstr "Destek ile iletişim kur"
+
+#: admin/tab-pages/getting-started.php:66
+msgid "Premium Theme Details"
+msgstr "Premium tema detayları"
+
+#: admin/tab-pages/getting-started.php:60
+msgid "Your feedback is valuable to us"
+msgstr "Geri bildiriminiz bizim için değerlidir"
+
+#: admin/tab-pages/getting-started.php:52
+msgid "PRO Demo"
+msgstr "PRO örneği"
+
+#: admin/tab-pages/getting-started.php:46
+msgid "Lite Demo"
+msgstr "Basit Demo"
+
+#: admin/tab-pages/getting-started.php:39
+msgid "Useful Links"
+msgstr "İşe yarar bağlantılar"
+
+#: admin/tab-pages/getting-started.php:33
+msgid "Wallstreet Agency Theme"
+msgstr "Wallstreet Agency Teması"
+
+#: admin/tab-pages/getting-started.php:27
+msgid "Go to Customizer"
+msgstr "Özelleştiriciye git"
+
+#: admin/tab-pages/getting-started.php:25
+msgid "After activating recommended plugins, now you can start customization."
+msgstr "Önerilen eklentileri etkinleştirdikten sonra, şimdi özelleştirmeye başlayabilirsiniz."
+
+#: admin/tab-pages/getting-started.php:22
+msgid "Start Customizing"
+msgstr "Özelleştirmeye başla"
+
+#: admin/tab-pages/getting-started.php:17
+msgid "Click here"
+msgstr "Buraya tıkla"
+
+#: admin/tab-pages/getting-started.php:15
+msgid "To take full advantage of the theme features you need to install recommended plugins."
+msgstr "Tema özelliklerinden tam olarak yararlanmak için önerilen eklentileri kurmanız gerekir."
+
+#: admin/tab-pages/getting-started.php:12
+msgid "Recommended Plugins"
+msgstr "Önerilen eklentiler"
+
+#: admin/tab-pages/free_vs_pro.php:137
+msgid "Get PRO Version Now!"
+msgstr "PRO sürümü hemen alın!"
+
+#: admin/tab-pages/free_vs_pro.php:128
+msgid "Webriti Support Forum"
+msgstr "Webriti destek forumu"
+
+#: admin/tab-pages/free_vs_pro.php:116
+msgid "About Us, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "Hakkımıza, hizmetler, portföy, blog sol & sağ kenar çubukları, tam genişlikte blog, tam genişlikte sayfa, iletişim sayfası ve çok daha fazlası."
+
+#: admin/tab-pages/free_vs_pro.php:114
+msgid "Top Header, Slider [Unlimited Slides], Services [Unlimited], Portfolio [Unlimited Projects], Testimonials, Latest News and Clients"
+msgstr "Üst kısım, slayt gösterisi aracı (sınırsız slayt), hizmetler (sınırsız), müşteri görüşleri, son haberler ve müşteriler"
+
+#: admin/tab-pages/free_vs_pro.php:111
+msgid "Pro"
+msgstr "Pro"
+
+#: admin/tab-pages/free_vs_pro.php:102
+msgid "WordPress Support Forum"
+msgstr "WordPress destek forumu"
+
+#: admin/tab-pages/free_vs_pro.php:91
+msgid "Homepage Template and Full-Width Page Template"
+msgstr "Ana sayfa şablonu ve tam genişlikte sayfa şablonu"
+
+#: admin/tab-pages/free_vs_pro.php:90
+msgid "Top Header, Banner, Services [3 Services], Portfolio, Latest News"
+msgstr "Üst kısım, ilan, hizmet [3 hizmet], porföy, son haberler"
+
+#: admin/tab-pages/free_vs_pro.php:87
+msgid "Free"
+msgstr "Ücretsiz"
+
+#: admin/tab-pages/free_vs_pro.php:77
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Destek forumumuzda 7/24 anında destek alın."
+
+#: admin/tab-pages/free_vs_pro.php:76
+msgid "Support Forum"
+msgstr "Destek forumu"
+
+#: admin/tab-pages/free_vs_pro.php:72
+msgid "With the help of WPML, you can make a Multilingual Website."
+msgstr "WPML desteği ile çok dilli bir site oluşturabilirsiniz."
+
+#: admin/tab-pages/free_vs_pro.php:71
+msgid "WPML / Polylang Support"
+msgstr "WPML / Polylang desteği"
+
+#: admin/tab-pages/free_vs_pro.php:67
+msgid "Show user feedback on the Homepage and Services page."
+msgstr "Ana sayfa ve hizmetler sayfasında kullanıcı dönüşlerini göster."
+
+#: admin/tab-pages/free_vs_pro.php:66
+msgid "Testimonial / Review Section"
+msgstr "Müşteri görüşleri / incelemeler bölümü"
+
+#: admin/tab-pages/free_vs_pro.php:62
+msgid "Show all your services in a single place."
+msgstr "Tüm hizmetlerinizi tek bir yerde gösterin."
+
+#: admin/tab-pages/free_vs_pro.php:61
+msgid "Services Page"
+msgstr "Hizmetler sayfası"
+
+#: admin/tab-pages/free_vs_pro.php:57
+msgid "Show team members, your clients and custom content added in the WordPress editor."
+msgstr "WordPress metin düzenleyicisine eklenen takım üyelerini, müşterilerinizi ve özel içeriği gösterin."
+
+#: admin/tab-pages/free_vs_pro.php:56
+msgid "About Us Page"
+msgstr "Hakkımızda sayfası"
+
+#: admin/tab-pages/free_vs_pro.php:52
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "Proje/porföy koleksiyonunuzu 2 sütun, 3 sütun ve 4 sütun yerleşim seçeneklerinden biriyle sunun. Projelerinizi/portföyünüzü kategorilere ayrılmış olarak da gösterebilirsiniz."
+
+#: admin/tab-pages/free_vs_pro.php:51
+msgid "Portfolio"
+msgstr "Portföy"
+
+#: admin/tab-pages/free_vs_pro.php:47
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Google haritalar kullanarak mağaza ve işletme konumunuzu web sitenizde gösterin."
+
+#: admin/tab-pages/free_vs_pro.php:46
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: admin/tab-pages/free_vs_pro.php:42
+msgid "Enjoy using the 13 preset color schemes. You can also create custom skins without adding any code."
+msgstr "Önceden belirlenmiş 13 renk şemasının tadını çıkartın. Herhangi bir kod eklemeden özelleştirilmiş görünümler de oluşturabilirsiniz."
+
+#: admin/tab-pages/free_vs_pro.php:41 admin/tab-pages/useful_plugins.php:88
+msgid "Multiple Color Schemes"
+msgstr "Çoklu renk şemaları"
+
+#: admin/tab-pages/free_vs_pro.php:37
+msgid "This feature allows you to rename the custom post type slug names in the URL."
+msgstr "Bu özellik özel yazı tiplerinin URL'deki kısa ismini değiştirebilmenize olanak sağlar."
+
+#: admin/tab-pages/free_vs_pro.php:36 admin/tab-pages/useful_plugins.php:16
+msgid "SEO Friendly URL"
+msgstr "SEO dostu URL"
+
+#: admin/tab-pages/free_vs_pro.php:32
+msgid "Contact Form Support"
+msgstr "İletişim formu desteği"
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Responsive layout in all devices"
+msgstr "Tüm cihazlarda duyarlı yerleşim"
+
+#: admin/tab-pages/free_vs_pro.php:27
+msgid "Mobile Friendly"
+msgstr "Mobil cihaz dostu"
+
+#: admin/tab-pages/free_vs_pro.php:23
+msgid "Various Page Templates included in the Wallstreet Agency Premium Theme"
+msgstr "Wallstreet Agency Premium temasında çeşitli sayfa şablonları bulunmaktadır."
+
+#: admin/tab-pages/free_vs_pro.php:22
+msgid "Page Templates Support"
+msgstr "Sayfa şablonları desteği"
+
+#: admin/tab-pages/free_vs_pro.php:18
+msgid "You will find a number of sections on the front page."
+msgstr "Ön sayfada çeşitli bölümler görürsünüz."
+
+#: admin/tab-pages/free_vs_pro.php:17
+msgid "Frontpage Sections"
+msgstr "Ön sayfa bölümleri"
+
+#: admin/tab-pages/free_vs_pro.php:12
+msgid "Features"
+msgstr "Özellikler"
+
+#: admin/inc/include-companion.php:99
+msgid "Activate Now"
+msgstr "Şimdi etkinleştir"
+
+#: admin/inc/include-companion.php:98
+msgid "Activate Webriti Companion now"
+msgstr "Webriti Companion'u şimdi etkinleştir"
+
+#: admin/inc/include-companion.php:97
+msgid "You have installed Webriti Companion Plugin. Activate it to take advantage of this theme's features in the customizer."
+msgstr "Webriti Companion eklentisini kurdunuz. Özelleştiricide bu temanın özelliklerinden yararlanmak için etkinleştirin."
+
+#: admin/inc/include-companion.php:81
+msgid "Install Webriti Companion Now"
+msgstr "Şimdi Webriti Companion'u kur"
+
+#: admin/inc/include-companion.php:80
+msgid "Webriti Companion plugin is required to take advantage of this theme's features in the customizer."
+msgstr "Bu temanın özelleştiricideki özelliklerinden yararlanmak için Webriti Companion eklentisi gereklidir."
+
+#: admin/inc/class-webriti-about-page.php:569
+msgid "it is recommended that you install the Contact Form 7 plugin to show contact form on pages"
+msgstr "Sayfalarda iletişim formunu göstermek için Contact Form 7 eklentisini yüklemeniz önerilir"
+
+#: admin/inc/class-webriti-about-page.php:566
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/inc/class-webriti-about-page.php:562
+msgid "It is highly recommended that you install the Webriti Companion plugin to have access to the advance Frontpage sections and other theme features"
+msgstr "Gelişmiş ana sayfa bölümlerine ve diğer tema özelliklerine erişebilmek için Webriti Companion eklentisini kurmanız şiddetle tavsiye edilir."
+
+#: admin/inc/class-webriti-about-page.php:559
+#: admin/inc/include-companion.php:81 admin/inc/include-companion.php:98
+msgid "Webriti Companion"
+msgstr "Webriti Companion"
+
+#: admin/inc/class-webriti-about-page.php:449
+msgid "Active"
+msgstr "Etkinleştir"
+
+#: admin/inc/class-webriti-about-page.php:446
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: admin/inc/class-webriti-about-page.php:444
+msgid "Activate %s Now"
+msgstr "%s eklentisini etkinleştir"
+
+#: admin/inc/class-webriti-about-page.php:427
+#: admin/inc/include-companion.php:82
+msgid "Install & Activate"
+msgstr "Kur ve etkinleştir"
+
+#: admin/inc/class-webriti-about-page.php:425
+msgid "Install %s Now"
+msgstr "%s temasını şimdi kur"
+
+#: admin/inc/class-webriti-about-page.php:347 admin/tab-pages/support.php:20
+#: admin/tab-pages/support.php:22
+msgid "Changelog"
+msgstr "Değişiklik listesi"
+
+#: admin/inc/class-webriti-about-page.php:341
+msgid "Support"
+msgstr "Destek"
+
+#: admin/inc/class-webriti-about-page.php:335
+msgid "Free vs Pro"
+msgstr "Ücretsiz ve Pro"
+
+#: admin/inc/class-webriti-about-page.php:328
+msgid "Why Upgrade to PRO?"
+msgstr "Neden PRO sürüme yükseltmeli?"
+
+#: admin/inc/class-webriti-about-page.php:320
+msgid "Recommended Actions"
+msgstr "Önerilen eylemler"
+
+#: admin/inc/class-webriti-about-page.php:315
+msgid "Getting Started"
+msgstr "Başlarken"
+
+#: admin/inc/class-webriti-about-page.php:263
+msgid "See changelog below:"
+msgstr "Değişiklik kayıtlarını aşağıda görebilirsiniz:"
+
+#: admin/inc/class-webriti-about-page.php:142
+msgid "Get started with Wallstreet Agency theme"
+msgstr "Wallstreet Agency temasını kullanmaya başlayın"
+
+#: admin/inc/class-webriti-about-page.php:141
+msgid "Wallstreet Agency theme is installed. To take full advantage of the features this theme has to offer visit our %1$s welcome page %2$s"
+msgstr "Wallstreet Agency teması kuruldu. Bu temanın özelliklerinden tam olarak faydalanmak için %1$s hoşgeldiniz sayfamızı %2$s ziyaret edin."
+
+#: admin/inc/class-webriti-about-page.php:127
+msgid "Welcome to %1$s %2$s"
+msgstr "%1$s temasına hoşgeldiniz - Sürüm %2$s"
+
+#: admin/inc/class-webriti-about-page.php:126
+msgid "About Wallstreet Agency Theme"
+msgstr "Wallstreet Agency teması hakkında"
+
+#: admin/inc/class-webriti-about-page.php:116
+msgid "View Theme Info"
+msgstr "Tema bilgilerini görün"
+
+#: admin/inc/class-webriti-about-page.php:77 admin/inc/include-companion.php:44
+#: admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr "Hata"
+
+#: admin/inc/class-webriti-about-page.php:76 admin/inc/include-companion.php:43
+#: admin/inc/plugin-include-control.php:41
+msgid "Activating"
+msgstr "Etkinleştiriliyor"
+
+#: admin/inc/class-webriti-about-page.php:75 admin/inc/include-companion.php:42
+#: admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr "Yükleniyor"
+
+#. Author URI of the theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the theme
+msgid "webriti"
+msgstr "webriti"

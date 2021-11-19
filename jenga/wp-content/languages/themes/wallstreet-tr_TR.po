@@ -1,0 +1,492 @@
+# Translation of Themes - Wallstreet in Turkish
+# This file is distributed under the same license as the Themes - Wallstreet package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-16 11:16:08+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: tr\n"
+"Project-Id-Version: Themes - Wallstreet\n"
+
+#. Theme Name of the theme
+msgid "Wallstreet"
+msgstr "Wallstreet"
+
+#: functions.php:140 functions.php:142
+msgid "Sidebar widget area"
+msgstr "Kenar çubuğu bileşen alanı"
+
+#: functions/customizer/customizer-social.php:134
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: functions/customizer/customizer-social.php:114
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/customizer/customizer-social.php:94
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/customizer/customizer-social.php:75
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: comments.php:56
+msgid "Logout"
+msgstr "Çıkış"
+
+#: comments.php:56
+msgid "Log out from this Account"
+msgstr "Bu hesaptan çıkış yap"
+
+#: comments.php:55 comments.php:61
+msgid "Leave your message"
+msgstr "Mesajınızı bırakın"
+
+#: comments.php:45
+msgid "Name"
+msgstr "İsim"
+
+#. translators: %s is Link to login
+#: comments.php:33
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Yorum yapabilmek için <a href=\"%s\">giriş yapmalısınız</a>"
+
+#: author.php:8
+msgid "Author Archive"
+msgstr "Yazar arşivi"
+
+#: 404.php:32
+msgid "Go Back"
+msgstr "Geri dön"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Tam sayfa genişlik"
+
+#: functions/customizer/customizer-social.php:15
+msgid "Social Links"
+msgstr "Sosyal medya bağlantıları"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Eklenti API'siyle ilgili bir şeyler yanlış gitti."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) kuruluyor"
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Tüm kurulumlar tamamlandı."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s başarıyla kuruldu."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s kurulumu başarısız oldu."
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s kurulurken bir hata oluştu: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum işlemi başlıyor. Bu işlem, bazı ana bilgisayarlarda zaman alabilir, bu yüzden sabırlı olunuz."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Eklenti %1$s (%2$d/%3$d) kuruluyor ve etkinleştiriliyor"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Tüm kurulum ve etkinleştirmeler tamamlandı."
+
+#. translators: 1: plugin name.
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Detayları gizle"
+
+#. translators: 1: plugin name.
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Detayları göster"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s başarıyla kuruldu ve etkinleştirildi."
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Kurulum ve etkinleştirme işlemi başlıyor. Bu işlem, bazı ana bilgisayarlarda zaman alabilir, bu yüzden sabırlı olunuz."
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Eklenti etkinleştirmesi başarısız oldu."
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Durum"
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tip"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Kaynak"
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Eklenti"
+
+#: admin/inc/class-webriti-about-page.php:446
+#: class-tgm-plugin-activation.php:2726
+#: functions/customizer/customizer_recommended_plugin.php:19
+msgid "Activate"
+msgstr "Etkinleştir"
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Kur"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Kurulmuş ancak etkinleştirilmemiş"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Kurulmamış"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Önerilen"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Gerekli"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress deposu"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Önceden paketlenmiş"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Başlangıca dön"
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Bu uyarıyı kapat"
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Tüm eklentiler başarıyla kuruldu ve etkinleştirildi. %1$s"
+
+#: class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr "Şu eklenti başarıyla etkinleştirildi:"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Eklenti başarıyla etkinleştirildi."
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Gerekli eklenti kurulumuna dön"
+
+#: class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Eklentiyi etkinleştirmeye başla"
+msgstr[1] "Eklentileri etkinleştirmeye başla"
+
+#: class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Eklentiyi yüklemeye başla"
+msgstr[1] "Eklentileri yüklemeye başla"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Şu eklentinin tema ile maksimum uyumu sağlaması için son sürüme güncellenmesi gerekiyor: %1$s."
+msgstr[1] "Şu eklentilerin tema ile maksimum uyumu sağlaması için son sürüme güncellenmesi gerekiyor: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Önerilen bazı eklentiler şu an aktif değil: %1$s."
+msgstr[1] "Önerilen bazı eklentiler şu an aktif değil: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Bazı gerekli eklentiler şu an aktif değil: %1$s."
+msgstr[1] "Bazı gerekli eklentiler şu an aktif değil: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Bu tema %1$s eklentisini öneriyor."
+msgstr[1] "Bu tema %1$s eklentilerini öneriyor."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Bu tema için %1$s eklentisi gereklidir."
+msgstr[1] "Bu tema için %1$s eklentileri gereklidir."
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "%s eklentisi kuruluyor"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Eklenti kur"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Gerekli eklentileri kur"
+
+#: comments.php:46
+msgid "Email"
+msgstr "E-posta"
+
+#: functions/customizer/customizer-social.php:7
+msgid "Social link settings"
+msgstr "Sosyal medya bağlantı ayarları"
+
+#: functions/customizer/customizer-pro-feature.php:73
+msgid "UPGRADE TO PRO"
+msgstr "Ücretli sürüme yükselt"
+
+#: functions/customizer/customizer-copyright.php:24
+msgid "Copyright text"
+msgstr "Telif hakkı metni"
+
+#: functions/customizer/customizer-copyright.php:8
+msgid "Footer copyright settings"
+msgstr "Alt kısım telif hakkı ayarları"
+
+#: functions/customizer/customizer-blog.php:28
+msgid "Enable Homepage Blog Section"
+msgstr "Ana sayfa blog bölümünü etkinleştir"
+
+#: functions/customizer/customizer-blog.php:66
+msgid "Homepage blog section description"
+msgstr "Ana sayfa blog bölümü açıklaması"
+
+#: functions/customizer/customizer-blog.php:47
+msgid "Homepage blog section heading"
+msgstr "Ana sayfa blog bölümü başlığı"
+
+#: tag.php:8
+msgid "Tag Archive %s"
+msgstr "%s etiket arşivi"
+
+#: searchform.php:2
+msgid "Search Here"
+msgstr "Burada ara"
+
+#: search.php:74
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Üzgünüz fakat aradığınız kriterler ile örtüşen sonuç bulunamadı. Lütfen başka anahtar kelimeler ile tekrar deneyin."
+
+#: search.php:72
+msgid "Nothing Found"
+msgstr "Hiçbir şey bulunamadı"
+
+#: search.php:67
+msgid "Next"
+msgstr "Sonraki"
+
+#: search.php:68
+msgid "Previous"
+msgstr "Önceki"
+
+#: search.php:8
+msgid "Search results for: %s"
+msgstr "%s için arama sonuçları"
+
+#: header.php:87
+msgid "Toggle navigation"
+msgstr "Navigasyonu değiştir"
+
+#: functions.php:216
+msgid "Your comment is awaiting moderation."
+msgstr "Yorumunuz denetim bekliyor."
+
+#: functions.php:211
+msgid "Edit"
+msgstr "Düzenle"
+
+#: functions.php:208
+msgid "Posted on &nbsp;"
+msgstr "Yayın tarihi &nbsp;"
+
+#: functions.php:202
+msgid "Reply"
+msgstr "Yanıtla"
+
+#: functions.php:150 functions.php:152
+msgid "Footer widget area"
+msgstr "Alt kısım bileşen alanı"
+
+#: functions.php:87
+msgid "Primary Menu"
+msgstr "Birincil menü"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Ara"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Ana sayfa"
+
+#: wallstreet_theme_setup_data.php:17
+msgid "Welcome to WallStreet"
+msgstr "Wallstreet'e hoş geldiniz"
+
+#: wallstreet_theme_setup_data.php:27 wallstreet_theme_setup_data.php:31
+#: wallstreet_theme_setup_data.php:35
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit dignissim dapib tumst dign eger porta nisl."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipisicing elit.Lorem ipsum dolor sit amet, consectetur adipisicing elit dignissim dapib tumst dign eger porta nisl."
+
+#: functions/customizer/customizer-social.php:54
+msgid "Enable social media links on footer section"
+msgstr "Alt kısımda sosyal medya bağlantılarını etkinleştir"
+
+#: functions/customizer/customizer-social.php:35
+msgid "Enable social media links on header section"
+msgstr "Üst kısımda sosyal medya bağlantılarını etkinleştir"
+
+#: admin/tab-pages/free_vs_pro.php:14
+msgid "Features"
+msgstr "Özellikler"
+
+#: admin/tab-pages/useful_plugins.php:116
+msgid "Translation Ready"
+msgstr "Çeviri hazır"
+
+#: archive.php:63 author.php:47 category.php:49 functions.php:65
+#: functions/breadcrumbs/breadcrumbs.php:107 index.php:65 single.php:37
+#: tag.php:57
+msgid "Page"
+msgstr "Sayfa"
+
+#: functions/breadcrumbs/breadcrumbs.php:99
+msgid "Articles posted by"
+msgstr "Makaleleri gönderen "
+
+#: functions/breadcrumbs/breadcrumbs.php:94
+msgid "Posts tagged"
+msgstr "Etiketlenmiş yazılar"
+
+#: functions/breadcrumbs/breadcrumbs.php:28
+msgid "Archive by category"
+msgstr "Kategoriye göre arşiv "
+
+#: functions/breadcrumbs/breadcrumbs.php:5
+#: functions/menu/default_menu_walker.php:17 index.php:17
+msgid "Home"
+msgstr "Ana sayfa"
+
+#: comments.php:58
+msgid "Send Message"
+msgstr "Mesajı gönder"
+
+#: comments.php:56
+msgid "Logged in as"
+msgstr "Giriş yapıldı "
+
+#: comments.php:26
+msgid "Comments are closed"
+msgstr "Yorumlar kapalı"
+
+#: comments.php:22
+msgid "Newer Comments &rarr;"
+msgstr "Yeni yorumlar &arr;"
+
+#: comments.php:21
+msgid "&larr; Older Comments"
+msgstr "&arr; Eski yorumlar"
+
+#: comments.php:20
+msgid "Comment navigation"
+msgstr "Yorum dolaşımı"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Bu yazı parola korumalı. Yorumları görmek için parola girin."
+
+#: archive.php:62 author.php:46 category.php:48 functions.php:130
+#: index-blog.php:51 index.php:64 search.php:50 tag.php:56
+msgid "Read More"
+msgstr "Daha fazlasını oku"
+
+#: archive.php:21
+msgid "Blog Archive"
+msgstr "Blog arşivi"
+
+#: archive.php:17
+msgid "Yearly Archive"
+msgstr "Yıllık arşiv"
+
+#: archive.php:13
+msgid "Monthly Archive"
+msgstr "Aylık arşiv"
+
+#: archive.php:10
+msgid "Daily Archive"
+msgstr "Günlük arşiv"
+
+#: 404.php:31
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Üzgünüz ancak aradığınız sayfa mevcut değil."
+
+#: 404.php:30
+msgid "Oops! Page not found"
+msgstr "Off! Bu sayfa bulunamadı"
+
+#: 404.php:8 404.php:29 functions/breadcrumbs/breadcrumbs.php:102
+msgid "Error 404"
+msgstr "Hata 404"
+
+#. Author URI of the theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Theme URI of the theme
+msgid "https://webriti.com/wallstreet-lite-version-details-page/"
+msgstr "https://webriti.com/wallstreet-lite-version-details-page/"
+
+#. Author of the theme
+msgid "webriti"
+msgstr "webriti"
